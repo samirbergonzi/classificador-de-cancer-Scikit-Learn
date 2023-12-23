@@ -1,4 +1,4 @@
-# Breast Cancer Classifier with Random Forest
+# Classificador de câncer de mama com Random Forest
 
 Este é um exemplo de um classificador de câncer de mama usando a biblioteca scikit-learn em Python.
 
